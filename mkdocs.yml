@@ -26,6 +26,7 @@ nav:
     - Ata 01: atas/ata01.md
     - Ata 02: atas/ata02.md
     - Ata 03: atas/ata03.md
+    - Ata 04: atas/ata04.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich-picture.md
   - Planejamento:
@@ -62,6 +63,7 @@ nav:
     - Lista de Verificação:
       - Entrega 1: verificacao/lista_verif/entrega1.md
       - Entrega 2: verificacao/lista_verif/entrega2.md
+      - Entrega 3: verificacao/lista_verif/entrega3.md
     - Inspeções do Grupo 4:
       - Entrega 1: verificacao/grupo4/entrega1/entrega1.md
       - Entrega 2: verificacao/grupo4/entrega1/entrega2.md
