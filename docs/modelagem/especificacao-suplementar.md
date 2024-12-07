@@ -34,6 +34,9 @@ Refere-se à facilidade com que o usuário pode executar uma tarefa utilizando o
 
 | ID    | Descrição |
 | ----- | --------- |
+| USA01 | O fluxo para solicitar medicamentos deve ser concluído em até 5 cliques/telas |
+| USA02 | O resultado da consulta de pedidos de medicamento deve ser exibido em ordem cronológica |
+| USA03 | O resultado da consulta de receitas médicas deve ser exibido em ordem cronológica |
 
 </center>
 
@@ -75,6 +78,8 @@ Refere-se aos critérios operacionais necessários para que os requisitos sejam 
 
 | ID    | Descrição |
 | ----- | --------- |
+| DES01 | A aplicação deve processar a solicitação de medicamentos e fornecer uma resposta em até 5 segundos |
+| DES02 | A receita médica deve ser exportada em formato PDF de alta qualidade, com tamanho máximo de 2 MB |
 
 </center>
 
@@ -115,4 +120,5 @@ Abrange os requisitos associados ao suporte e à manutenção do sistema, inclui
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/12/2024 |  |  |
+| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/12/2024 | - | - |
+| `1.1`  | Adição de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |  |  |
