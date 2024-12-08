@@ -120,5 +120,5 @@ Abrange os requisitos associados ao suporte e à manutenção do sistema, inclui
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/12/2024 | - | - |
-| `1.1`  | Adição de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |  |  |
+| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
+| `1.1`  | Adição de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
