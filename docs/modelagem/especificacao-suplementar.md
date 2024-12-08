@@ -58,11 +58,15 @@ Refere-se à capacidade do sistema de operar sem falhas, incluindo a frequência
 
 | ID    | Descrição |
 | ----- | --------- |
+| CON01 | O aplicativo deve seguir a Lei Geral de Proteção de Dados (LGPD) |
+| CON02 | O aplicativo deve ser acessível 7 dias por semana, 24 horas por dia |
+| CON03 | As informações a respeito dos medicamentos devem estar sempre atualizadas |
+
 
 </center>
 
 <div align="center">
-    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
 
@@ -100,11 +104,14 @@ Abrange os requisitos associados ao suporte e à manutenção do sistema, inclui
 
 | ID    | Descrição |
 | ----- | --------- |
+| SUP01 | Deve possuir um canal de suporte ao usuário |
+| SUP02 | O aplicativo deve ser disponibilizado nas lojas oficiais dos dispositivos móveis |
+| SUP03 | Deve existir responsividade para celulares e tablets |
 
 </center>
 
 <div align="center">
-    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
 
@@ -122,3 +129,4 @@ Abrange os requisitos associados ao suporte e à manutenção do sistema, inclui
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.1`  | Adição de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
+| `1.2`  | Adição de especificações. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
